@@ -11,16 +11,16 @@ the directory to the PATH-Environment-Variable.
 
 # Changelog
 
-| v1  | v2  |
-| --- | --- |
-| Added xPRINT.exe           | Added cTIME.exe |
-| Added MAKEANIMATION.exe    | Added uTIME.exe |
-| Added ANIMATION.exe        | |
-| Added CURSORVISIBILITY.exe | |
-| Added STRLEN.exe           | |
-| Added xCOLOR.exe           | |
-| Added PRINT.exe            | |
-| Added CURSORPOS.exe        | |
+| v1  | v2  | v3  |
+| --- | --- | --- |
+| Added xPRINT.exe           | Added cTIME.exe | Added READKEY.exe |
+| Added MAKEANIMATION.exe    | Added uTIME.exe | Added SLEEP.exe |
+| Added ANIMATION.exe        | | Added STARTINVISIBLE.exe |
+| Added CURSORVISIBILITY.exe | | Removed CURSORVISIBILITY.exe |
+| Added STRLEN.exe           | | Removed CURSORPOS.exe |
+| Added xCOLOR.exe           | | Added CONSOLE.exe |
+| Added PRINT.exe            | | |
+| Added CURSORPOS.exe        | | |
 
 # Documentation
 
