@@ -12,16 +12,16 @@ the directory to the PATH-Environment-Variable.
 # Changelog
 
 ### v2
-###### Added cTIME.exe
-###### Added uTIME.exe
+Added cTIME.exe
+Added uTIME.exe
 ### v1
-###### Added xPRINT.exe
-###### Added MAKEANIMATION.exe
-###### Added ANIMATION.exe
-###### Added CURSORVISIBILITY.exe
-###### Added STRLEN.exe
-###### Added xCOLOR.exe
-###### Added PRINT.exe
-###### Added CURSORPOS.exe
+Added xPRINT.exe
+Added MAKEANIMATION.exe
+Added ANIMATION.exe
+Added CURSORVISIBILITY.exe
+Added STRLEN.exe
+Added xCOLOR.exe
+Added PRINT.exe
+Added CURSORPOS.exe
 
 # Documentation
