@@ -32,3 +32,4 @@ the directory to the PATH-Environment-Variable.
 | CURSORVISIBILITY | v1 | `CURSORVISIBILITY` | Changes if the Cursor should be visible. |
 | | | `CURSORVISIBILITY GET` | Outputs the current Cursor visibility state. |
 | MAKEANIMATION | v1 | `MAKEANIMATION <Type> <Sub> [WORD]` | Outputs a valid animation value for the `ANIMATION` command. <br /><br />Types: <br />`Rotate`:<br />`0   -  / - \ \|`<br />`1   -  ^ > V <`<br />`2   -  + x`<br />`3   -  p d b q`<br />`Range`:<br />Returns a set of numbers from 0 to the given number.<br />`Alphabet`:<br />Returns **n** letters of the alphabet. Maximum is 26.<br />`Appear`<br />Accepts the **WORD** Parameter, while a *0* for **Sub** is required. It makes the given word appear one letter at a time. |
+| PRINT | v1 | `PRINT <String>` | Prints the string. Only difference to the built-in `echo` is that no newline is added at the end. |
