@@ -11,8 +11,8 @@ the directory to the PATH-Environment-Variable.
 
 # Changelog
 
-| --- | --- |
 | v1  | v2  |
+| --- | --- |
 | Added xPRINT.exe           | Added cTIME.exe |
 | Added MAKEANIMATION.exe    | Added uTIME.exe |
 | Added ANIMATION.exe        | |
