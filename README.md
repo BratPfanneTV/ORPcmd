@@ -27,3 +27,6 @@ the directory to the PATH-Environment-Variable.
 | Command | Version Added | Syntax | Description |
 | ------- | ------------- | ------ | ----------- |
 | ANIMATION | v1 | `ANIMATION <MS> <ANIMATION>` | Plays an animation. **MS** specifies the amount of Milliseconds per Frame, and **ANIMATION** is just all the animation frames seperated by spaces. <br /> Example: <br /> ANIMATION 200 U u .. u <br /> Will animate to: <br /> U u .. u U u .. u U u .. u U u .. u U u .. u |
+| CURSORPOS | v1 | `CURSORPOS <X> <Y>` | Sets the cursor to the given **X** and **Y** coordinates. **Y** is relative to the top of the entire current output, not necessarily the window. |
+| CURSORVISIBILITY | v1 | `CURSORVISIBILITY` | Changes if the Cursor should be visible. |
+| | | `CURSORVISIBILITY GET` | Outputs the current Cursor visibility state. |
