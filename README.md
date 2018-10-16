@@ -38,4 +38,4 @@ the directory to the PATH-Environment-Variable.
 | | | `uTIME -f <File>` | Returns the last modification date for **File** as Millisecond-Unix-Timestamp. |
 | | | `uTIME -fc <File>` | Returns the creation date for **File** as Millisecond-Unix-Timestamp. |
 | xCOLOR | v1 | `xCOLOR <Color>` | Sets the print color to **Color**, as seen in `color`, but only for the text after it. |
-| xPRINT | v1 | `xPRINT <File>` | Reads the **File** as Instructions and executes them all at once. <br /><br />`c00` - `Changes Color.`<br />`eHello` - `Prints something.`<br />`n` - `New line.` |
+| xPRINT | v1 | `xPRINT <File>` | Reads the **File** as Instructions and executes them all at once. <br /><br />`c00` - `Changes Color. (to 00 in this case.)`<br />`eHello` - `Prints something. ("Hello" in this case.)`<br />`n` - `New line.` |
