@@ -35,7 +35,7 @@ the directory to the PATH-Environment-Variable.
 | | | | `CALCULATOR P <num1> <num2>` | Takes **num1** to the power of **num2**. |
 | | | | `CALCULATOR R <num1> <num2>` | Returns the **num2**th root of **num1**. |
 | | | | `CALCULATOR F <num>` | Returns **num1**'s factorial. |
-| | | | `CALCULATOR I <num>` | Converts any number, which is *not* multiplied by *1000000* and has a decimal point to a valid input for the other commands. Both *`,`* and *`.`* as decimal seperators are supported.  |
+| | | | `CALCULATOR I <num>` | Converts any number, which is *not* multiplied by *1000000* and *has* a decimal point to a valid input for the other commands. Both *`,`* and *`.`* as decimal seperators are supported.  |
 | CALCULATOR-CMD | v4 | *errorlevel* **result**\**10* | `CALCULATOR-CMD <mode> <num1> [<num2>]` | Has the same functionality as `CALCULATOR`, but the multiplier is only *10*. |
 | CALCULATOR-BASIC | v4 | *stdout* **result** | `CALCULATOR-BASIC <operation>` | Computes the operation. Only supports the 4 basic operations, and only supports whole numbers. |
 | CONSOLE          |      v3       | *none* |  `CONSOLE cursorsize <0-100>`        | Sets the cursor to the given size. Set to 0 to make it disappear. |
