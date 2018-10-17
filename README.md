@@ -11,18 +11,6 @@ the directory to the PATH-Environment-Variable.
 
 # Changelog
 
-| v1  | v2  | v3  | v4  | v5  |
-| --- | --- | --- | --- | --- |
-| *"the Miscellaneous-Update"* | *"the Time-Update"* | *"the Script-Update"* | *"the Math-Update"* | *"the Display-Update"* |
-| Added xPRINT.exe           | Added cTIME.exe | Added READKEY.exe | Added CALCULATOR.exe | *Coming Soon™* |
-| Added MAKEANIMATION.exe    | Added uTIME.exe | Added SLEEP.exe | Added CALCULATOR-BASIC.exe | |
-| Added ANIMATION.exe        | | Added STARTINVISIBLE.exe | Added CALCULATOR-CMD.exe | |
-| Added CURSORVISIBILITY.exe | | Removed CURSORVISIBILITY.exe | | |
-| Added STRLEN.exe           | | Removed CURSORPOS.exe | | |
-| Added xCOLOR.exe           | | Added CONSOLE.exe | | |
-| Added PRINT.exe            | | | | |
-| Added CURSORPOS.exe        | | | | |
-
 ### v5
 *"the Display-Update"*
 ```diff
