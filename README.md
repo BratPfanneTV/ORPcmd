@@ -20,7 +20,7 @@ Coming Soon™
 ### v4.1
 *"the Updating-Update"*
 ```diff
-Comming Soom™
+Comming Soon™
 ```
 
 ### v4
