@@ -13,7 +13,7 @@ the directory to the PATH-Environment-Variable.
 
 | v1  | v2  | v3  | v4  | v5  |
 | --- | --- | --- | --- | --- |
-| <font color="grey">*"the Miscellaneous-Update"* | *"the Time-Update"* | *"the Script-Update"* | *"the Math-Update"* | *"the Display-Update"*</font> |
+| <font color="grey">*"the Miscellaneous-Update"*</font> | <font color="grey">*"the Time-Update"*</font></font></font> | <font color="grey">*"the Script-Update"*</font></font> | <font color="grey">*"the Math-Update"*</font> | <font color="grey">*"the Display-Update"*</font> |
 | Added xPRINT.exe           | Added cTIME.exe | Added READKEY.exe | Added CALCULATOR.exe | *Coming Soon™* |
 | Added MAKEANIMATION.exe    | Added uTIME.exe | Added SLEEP.exe | Added CALCULATOR-BASIC.exe | |
 | Added ANIMATION.exe        | | Added STARTINVISIBLE.exe | Added CALCULATOR-CMD.exe | |
