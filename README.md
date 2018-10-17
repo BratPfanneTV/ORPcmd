@@ -27,7 +27,7 @@ the directory to the PATH-Environment-Variable.
 | Command          | Version Added | Output | Syntax                              | Description |
 | ---------------- | ------------- | ------ | ----------------------------------- | ----------- |
 | ANIMATION        |      v1       | *stdout* **animation** | `ANIMATION <MS> <ANIMATION>`        | Plays an animation. **MS** specifies the amount of Milliseconds per Frame, and **ANIMATION** is just all the animation frames seperated by spaces. <br /> Example: <br /> ANIMATION 200 U u .. u <br /> Will animate to: <br /> U u .. u U u .. u U u .. u U u .. u U u .. u<br /><br />To have your code continue while the animation is running, call it with `START /B` |
-| CALCULATOR | v4 | *errorlevel* **result**\**1000000* | `CALCULATOR <mode> <num1> [<num2>]` | Performs mathematical operations. All numbers are inputted as *actual number*\**1000000*, and also outputted as such, to provide decimal place accuracy. |
+| CALCULATOR | v4 | *errorlevel* **result**\**1000000* | `CALCULATOR <mode> <num1> [<num2>]` | Performs mathematical operations. All numbers are inputted as <br />*actual number*\**1000000*, and also outputted as such, to provide decimal place accuracy. |
 | | | | `CALCULATOR A <num1> <num2>` | Adds to numbers together. |
 | | | | `CALCULATOR S <num1> <num2>` | Subtracts **num2** from **num1**. |
 | | | | `CALCULATOR D <num1> <num2>` | Divides **num1** by **num2**. |
