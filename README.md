@@ -23,6 +23,51 @@ the directory to the PATH-Environment-Variable.
 | Added PRINT.exe            | | | | |
 | Added CURSORPOS.exe        | | | | |
 
+### v5
+*"the Display-Update"*
+```diff
+Coming Soon™
+```
+
+### v4
+*"the Math-Update"*
+```diff
++ CALCULATOR.exe
++ CALCULATOR-BASIC.exe
++ CALCULATOR-CMD.exe
+```
+
+### v3
+*"the Script-Update"*
+```diff
++ READKEY.exe
++ SLEEP.exe
++ STARTINVISIBLE.exe
+- CURSORVISIBILITY.exe
+- CURSORPOS.exe
++ CONSOLE.exe
+```
+
+### v2
+*"the Timing-Update"*
+```diff
++ cTIME.exe
++ uTIME.exe
+```
+
+### v1
+*"the Miscellaneous-Update"*
+```diff
++ xPRINT.exe
++ MAKEANIMATION.exe
++ ANIMATION.exe
++ CURSORVISIBILITY.exe
++ STRLEN.exe
++ xCOLOR.exe
++ PRINT.exe
++ CURSORPOS.exe
+```
+
 # Documentation
 
 | Command          | Version Added | Output | Syntax                              | Description |
