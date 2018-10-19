@@ -14,13 +14,20 @@ the directory to the PATH-Environment-Variable.
 ### v5
 *"the Display-Update"*
 ```diff
-Coming Soon™
++ MOVEBUFFER.exe
++ RENDER-TABLE.exe
++ RENDER-GRAPH.exe
++ STRCONTAINS.exe
++ UTF16.exe
 ```
 
 ### v4.1
 *"the Updating-Update"*
 ```diff
-Comming Soon™
+- CALCULATOR-BASIC.exe
+- CALCULATOR-CMD.exe
+~ "CONSOLE.exe get" now returns all its values as errorlevels.
+~ "CALCULATOR.exe" now accepts a decimal-precision value and supports stdout-output for 32+-Bit values.
 ```
 
 ### v4
