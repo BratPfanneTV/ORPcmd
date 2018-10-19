@@ -11,30 +11,71 @@ the directory to the PATH-Environment-Variable.
 
 # Changelog
 
-| v1  | v2  | v3  | v4  |
-| --- | --- | --- | --- |
-| Added xPRINT.exe           | Added cTIME.exe | Added READKEY.exe | Added CALCULATOR.exe |
-| Added MAKEANIMATION.exe    | Added uTIME.exe | Added SLEEP.exe | Added CALCULATOR-BASIC.exe |
-| Added ANIMATION.exe        | | Added STARTINVISIBLE.exe | Added CALCULATOR-CMD.exe |
-| Added CURSORVISIBILITY.exe | | Removed CURSORVISIBILITY.exe | |
-| Added STRLEN.exe           | | Removed CURSORPOS.exe | |
-| Added xCOLOR.exe           | | Added CONSOLE.exe | |
-| Added PRINT.exe            | | | |
-| Added CURSORPOS.exe        | | | |
+### v5
+*"the Display-Update"*
+```diff
+Coming Soon™
+```
+
+### v4.1
+*"the Updating-Update"*
+```diff
+Comming Soon™
+```
+
+### v4
+*"the Math-Update"*
+```diff
++ CALCULATOR.exe
++ CALCULATOR-BASIC.exe
++ CALCULATOR-CMD.exe
+```
+
+### v3
+*"the Script-Update"*
+```diff
++ READKEY.exe
++ SLEEP.exe
++ STARTINVISIBLE.exe
+- CURSORVISIBILITY.exe
+- CURSORPOS.exe
++ CONSOLE.exe
+```
+
+### v2
+*"the Timing-Update"*
+```diff
++ cTIME.exe
++ uTIME.exe
+```
+
+### v1
+*"the Miscellaneous-Update"*
+```diff
++ xPRINT.exe
++ MAKEANIMATION.exe
++ ANIMATION.exe
++ CURSORVISIBILITY.exe
++ STRLEN.exe
++ xCOLOR.exe
++ PRINT.exe
++ CURSORPOS.exe
+```
 
 # Documentation
 
 | Command          | Version Added | Output | Syntax                              | Description |
 | ---------------- | ------------- | ------ | ----------------------------------- | ----------- |
 | ANIMATION        |      v1       | *stdout* **animation** | `ANIMATION <MS> <ANIMATION>`        | Plays an animation. **MS** specifies the amount of Milliseconds per Frame, and **ANIMATION** is just all the animation frames seperated by spaces. <br /> Example: <br /> ANIMATION 200 U u .. u <br /> Will animate to: <br /> U u .. u U u .. u U u .. u U u .. u U u .. u<br /><br />To have your code continue while the animation is running, call it with `START /B` |
-| CALCULATOR | v4 | *errorlevel* **result**\**1000000* | `CALCULATOR <mode> <num1> [<num2>]` | Performs mathematical operations. All numbers are inputted as *actual number*\**1000000*, and also outputted as such, to provide decimal place accuracy. |
+| CALCULATOR | v4 | *errorlevel* **result**\**1000000* | `CALCULATOR <mode> <num1> [<num2>]` | Performs mathematical operations. All numbers are inputted as <br />*actual number*\**1000000*, and also outputted as such, to provide decimal place accuracy. |
 | | | | `CALCULATOR A <num1> <num2>` | Adds to numbers together. |
 | | | | `CALCULATOR S <num1> <num2>` | Subtracts **num2** from **num1**. |
 | | | | `CALCULATOR D <num1> <num2>` | Divides **num1** by **num2**. |
 | | | | `CALCULATOR M <num1> <num2>` | Multiplies the numbers by each other. |
 | | | | `CALCULATOR P <num1> <num2>` | Takes **num1** to the power of **num2**. |
-| | | | `CALCULATOR F <num1>` | Returns **num1**'s factorial. |
 | | | | `CALCULATOR R <num1> <num2>` | Returns the **num2**th root of **num1**. |
+| | | | `CALCULATOR F <num>` | Returns **num1**'s factorial. |
+| | | | `CALCULATOR I <num>` | Converts any number, which is *not* multiplied by *1000000* and *has* a decimal point to a valid input for the other commands. Both *`,`* and *`.`* as decimal seperators are supported.  |
 | CALCULATOR-CMD | v4 | *errorlevel* **result**\**10* | `CALCULATOR-CMD <mode> <num1> [<num2>]` | Has the same functionality as `CALCULATOR`, but the multiplier is only *10*. |
 | CALCULATOR-BASIC | v4 | *stdout* **result** | `CALCULATOR-BASIC <operation>` | Computes the operation. Only supports the 4 basic operations, and only supports whole numbers. |
 | CONSOLE          |      v3       | *none* |  `CONSOLE cursorsize <0-100>`        | Sets the cursor to the given size. Set to 0 to make it disappear. |
