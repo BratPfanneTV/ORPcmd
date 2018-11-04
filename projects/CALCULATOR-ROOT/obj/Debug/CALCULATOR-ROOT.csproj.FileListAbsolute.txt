@@ -1,0 +1,6 @@
+C:\oc\projects\CALCULATOR-ROOT\bin\Debug\CALCULATOR-ROOT.exe.config
+C:\oc\projects\CALCULATOR-ROOT\bin\Debug\CALCULATOR-ROOT.exe
+C:\oc\projects\CALCULATOR-ROOT\bin\Debug\CALCULATOR-ROOT.pdb
+C:\oc\projects\CALCULATOR-ROOT\obj\Debug\CALCULATOR-ROOT.csproj.CoreCompileInputs.cache
+C:\oc\projects\CALCULATOR-ROOT\obj\Debug\CALCULATOR-ROOT.exe
+C:\oc\projects\CALCULATOR-ROOT\obj\Debug\CALCULATOR-ROOT.pdb

@@ -1,0 +1,6 @@
+C:\oc\projects\CALCULATOR-POWER\bin\Debug\CALCULATOR-POWER.exe.config
+C:\oc\projects\CALCULATOR-POWER\bin\Debug\CALCULATOR-POWER.exe
+C:\oc\projects\CALCULATOR-POWER\bin\Debug\CALCULATOR-POWER.pdb
+C:\oc\projects\CALCULATOR-POWER\obj\Debug\CALCULATOR-POWER.csproj.CoreCompileInputs.cache
+C:\oc\projects\CALCULATOR-POWER\obj\Debug\CALCULATOR-POWER.exe
+C:\oc\projects\CALCULATOR-POWER\obj\Debug\CALCULATOR-POWER.pdb
