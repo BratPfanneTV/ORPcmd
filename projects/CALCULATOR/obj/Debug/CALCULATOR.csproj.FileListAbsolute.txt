@@ -1,7 +1,0 @@
-C:\oc\projects\CALCULATOR\bin\Debug\CALCULATOR.exe.config
-C:\oc\projects\CALCULATOR\bin\Debug\CALCULATOR.exe
-C:\oc\projects\CALCULATOR\bin\Debug\CALCULATOR.pdb
-C:\oc\projects\CALCULATOR\obj\Debug\CALCULATOR.csprojAssemblyReference.cache
-C:\oc\projects\CALCULATOR\obj\Debug\CALCULATOR.csproj.CoreCompileInputs.cache
-C:\oc\projects\CALCULATOR\obj\Debug\CALCULATOR.exe
-C:\oc\projects\CALCULATOR\obj\Debug\CALCULATOR.pdb
